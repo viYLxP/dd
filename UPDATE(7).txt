@@ -1,0 +1,7 @@
+{
+version : '1.0',
+downloadLink: 'Link',
+Message : 'Tool Has Been Closed :)',
+ChangeLog : 'New Update YLxP :)!',
+isClose : 'True'
+}
