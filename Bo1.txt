@@ -1,9 +1,29 @@
-Welcome To Tool Praivet YLxP Bo1
+Tool Bo1  By viYLxP
 --
- No  Ver 1 > 0
---
-ID PS3 : LvYLxP (Retired)
---
-insta  ~ sYLxP
---
-«„ﬂ«‰Ì«  «· Ê·
+ No  Ver 1.8
+..
+-----------
+iD : LvYLxP (Retired)
+-----------
+* Contact Me:
+Snap : viYLxP ,
+Instagram: sYLxP ,
+PSN: LvYLxP (Retired)
+--------------
+* Features:
+
+- Kick Lobby
+- Disable Aimbot
+- Give Aimbot
+- Out Of Game
+- Freeze In Lobby
+- Freeze In Game
+- Freeze Non Host In Game 
+- Freeze ingec
+- Freeze Crona
+- Freeze dashbord 
+- Clone Xuid
+- Change Team
+- Hide IP
+- SV_GameServerCommand
+- Cbuf_AddText
