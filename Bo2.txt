@@ -1,0 +1,38 @@
+Tool Bo2 1.19 By viYLxP
+--
+ No  Ver 1.2
+..
+-----------
+iD : LvYLxP (Retired)
+-----------
+* Contact Me:
+Snap : viYLxP ,
+Instagram: sYLxP ,
+PSN: LvYLxP (Retired)
+--------------
+* Features:
+
+- Kick Lobby
+- Disable Aimbot
+- Give Aimbot
+- League Play
+
+- Kick Host
+- Out Of Game
+- Freeze In Lobby
+- Freeze In Game
+- Freeze Team
+- Freeze Non Host In Game 
+- Freeze Level
+- Freeze Crona
+- Freeze Left 
+- Clone Xuid
+- Change Team
+- Hide IP
+- Hide ID
+- Injector GSC (MP)
+- SV_GameServerCommand
+- Cbuf_AddText
+- Hear EvryOne
+
+
