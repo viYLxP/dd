@@ -1,0 +1,7 @@
+{
+version : '1.2',
+downloadLink: '',
+Message : 'Tool Has Been Closed :)',
+ChangeLog : 'Add  Freeze non host and anti fraze non host',
+isClose : 'True'
+}
